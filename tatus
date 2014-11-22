@@ -1,0 +1,30 @@
+commit ce7315b48e6008ba35d13ed3ab88bae2d85a89b6
+Author: frgour1415daw2 <frgour1415daw2@gmail.com>
+Date:   Sat Nov 22 21:19:02 2014 +0100
+
+    Creant un primer conflicte amb la branca01
+
+commit cf0d89b0a1320343533c3f102738532c91b98c90
+Merge: 24f4c00 742d858
+Author: frgour1415daw2 <frgour1415daw2@gmail.com>
+Date:   Sat Nov 22 21:09:59 2014 +0100
+
+    Treballant amb ordres Git i branques v0.2
+
+commit 24f4c0096275ee7613a8abb5d0929b74d715812a
+Author: frgour1415daw2 <frgour1415daw2@gmail.com>
+Date:   Sat Nov 22 20:59:48 2014 +0100
+
+    Treballant amb ordres Git i branques v0.2
+
+commit 742d858f1c30bfb441a64b7040d2f73f2310e86e
+Author: frgour1415daw2 <frgour1415daw2@gmail.com>
+Date:   Sat Nov 22 20:58:27 2014 +0100
+
+    Treballant amb ordres Git i branques v0.1
+
+commit 98f62bb0ab0931c33ed9a9cfae9afd33945cf4d2
+Author: frgour1415daw2 <frgour1415daw2@gmail.com>
+Date:   Sat Nov 22 20:54:28 2014 +0100
+
+    Treballant amb ordres Git
